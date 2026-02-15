@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.bgimgcolor{
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://img.cdn4dd.com/cdn-cgi/image/fit=cover,format=auto,quality=60/https://cdn.doordash.com/managed/consumer/seo/home/landing_cta/grocery_desktop.png);
+background-repeat: no-repeat;
+}
+.bgscolor{
+    background-color: rgb(254, 241, 238);
+}
+.bgfootercolor{
+    background-color: #191919;
+}
+.btns{
+    background-color: #eb1700ff;
+    border-radius: 20px;
+}
